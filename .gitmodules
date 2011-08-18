@@ -1,5 +1,5 @@
 [submodule "android"]
-	path = app
+	path = android
 	url = git@github.com:immopoly/android.git 
 [submodule "appengine"]
 	path = appengine
