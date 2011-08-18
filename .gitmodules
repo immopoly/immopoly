@@ -1,0 +1,9 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:immopoly/android.git 
+[submodule "appengine"]
+	path = appengine
+	url = git@github.com:immopoly/appengine.git
+[submodule "common"]
+	path = common
+	url = git@github.com:immopoly/common.git
