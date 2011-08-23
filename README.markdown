@@ -1,6 +1,6 @@
 # Immopoly
 
-Immopoly is a location based game that uses the new Immobilienscout25 REST-API.
+Immopoly is a location based game that uses the new Immobilienscout24 REST-API.
 This is the open source version of the Android app and AppEngine code.
 
 You might also want to visit [this page](http://immopoly.appspot.com/) for latest information about the ongoing game.
