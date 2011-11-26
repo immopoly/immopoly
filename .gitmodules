@@ -10,3 +10,6 @@
 [submodule "website"]
 	path = website
 	url = git@github.com:immopoly/website.git
+[submodule "iphone"]
+	path = iphone
+	url = git@github.com:immopoly/iphone.git
